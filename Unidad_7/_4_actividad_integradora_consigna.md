@@ -23,11 +23,9 @@ El resultado de esta parte va a ser la **matriz de ratings** que alimentará el 
 
 ### 1.1 Configuración del repositorio
 
-1. Creá un repositorio en GitHub con el nombre `577513-sistema-recomendacion`.
-2. Cloná el repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/TU_USUARIO/577513-sistema-recomendacion.git
-   ```
+1. Crea una carpeta en tu pc con el nombre `582477-actividad-integradora` y pega el template `_4_actividad_integradora_template.py`:
+2. Creá un repositorio en GitHub con el nombre `582477-actividad-integradora`.
+3. Seguí los pasos de Github para inicializar y sincronizar el repo local con la nube.
 3. Creá la rama `develop` a partir de `main`:
    ```bash
    git checkout -b develop
